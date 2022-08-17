@@ -1,0 +1,1 @@
+worker: python number_guesser.py
